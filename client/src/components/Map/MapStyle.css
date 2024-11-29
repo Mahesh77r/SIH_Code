@@ -1,0 +1,13 @@
+
+#map{
+height: 100%;
+width:100%;
+/* float: right; */
+}
+
+#layers
+{
+  height: 10%;
+  width: 800px;
+  float: left;
+}

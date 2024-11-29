@@ -1,0 +1,179 @@
+/* Header */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    min-height: 100vh;
+    width: 100%;
+    padding-top: 5%;
+    /* background-image: linear-gradient(rgba(244, 244, 247, 0.7), rgba(213, 214, 219, 0.384)), url(background.png); */
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    outline: auto;
+}
+
+#img1 {
+    margin-left: 5px;
+
+    height: 20%;
+
+}
+
+#img2 {
+    margin-left: 250px;
+    width: 10%;
+
+}
+
+#img3 {
+    margin-left: 188px;
+    width: 19%;
+
+}
+
+#first {
+    width: 100%;
+    padding: 4.4;
+    background-color: gray;
+    color: white;
+    font-size: 14;
+    height: 30px;
+ 
+}
+
+nav {
+    display: flex;
+    padding: 2% 6%;
+    justify-content: space-between;
+    align-items: center;
+    nav-up: current;
+}
+
+
+.nav-links {
+    flex: 1;
+    text-align: right;
+
+}
+
+.nav-links ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 8px 12px;
+    position: relative;
+
+}
+
+.nav-links ul li a {
+    color: rgb(15, 10, 10);
+    text-decoration: none;
+    font-size: 13px;
+
+}
+
+.nav-links ul li::after {
+    content: '';
+    width: 0%;
+    height: 2px;
+    display: block;
+    margin: auto;
+    background: red;
+    transition: 0.5s;
+
+}
+
+.nav-links ul li:hover::after {
+    content: '';
+    width: 100%;
+    height: 2px;
+    display: block;
+    margin: auto;
+    background: red;
+    transition: 0.5s;
+}
+
+.content {
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: black;
+    position: relative;   
+}
+
+.content .par {
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+}
+
+.content h1 {
+    font-family: 'Times New Roman';
+    font-size: 50px;
+    padding-left: 20px;
+    margin-top: 1%;
+    letter-spacing: 2px;
+
+}
+.content h1 span
+{
+    color: green;
+}
+button{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid rgb(19, 10, 10);
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+  
+    text-align: center;
+    cursor: pointer;
+    background-color:  #41e678;
+    
+    }
+    button a{
+        font-size: 20px;
+        cursor: pointer;
+        text-decoration: none;
+        color: white;
+    
+        }
+        button:hover{
+        background-color: #f28928; 
+        }
+        
+        .form p a{
+            text-decoration: none;
+            color: rgb(250, 16, 28);
+        }
+
+
+        .form
+        {
+          width: 400px;
+          height: 300px;
+          position: absolute;
+          top:-1px;
+          left: 800px;
+        
+        }
+#link1
+{
+    width:90px;
+    background-color: white;
+    color: rgb(49, 49, 235);
+    border: none;
+    font-size: large;
+}
+
+        /*
+        <i class="fa-solid fa-registered"></i>
+        <i class="fa-solid fa-circle-right"></i>
+        <i class="fa-solid fa-memo"></i>
+<i class="fa-solid fa-arrows-rotate"></i>
+        */

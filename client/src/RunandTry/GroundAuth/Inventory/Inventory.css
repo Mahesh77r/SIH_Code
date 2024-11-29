@@ -1,0 +1,20 @@
+TableCell
+{
+    border: 1px solid black;
+
+}
+TableCell input
+{
+    height: fit-content;
+
+}
+button
+{
+    background-color: aqua;
+    border: 1px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    box-sizing: content-box;
+    padding: 5px;
+
+}

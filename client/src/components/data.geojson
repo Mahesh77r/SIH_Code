@@ -1,0 +1,215 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "District Sport Stadium,Wardha",
+                "basicinfo": [
+                    {
+                        "fieldsize": "100.0 M x 68.0 M",
+                        "age": "For Every Age",
+                        "time":"5:30am To 9:30pm",
+                        "state":"Maharastra",
+                        "distric":"Wardha",
+                        "city":"Wardha"
+                }],
+                "inventory": [
+                    {
+                        "name": "Cricket Bat",
+                        "quatity": 20,
+                        "year": 2020,
+                        "price": 20000
+                    },
+                    {
+                        "name": "Football",
+                        "quatity": 10,
+                        "year": 2020,
+                        "price": 21000
+                    },
+                    {
+                        "name": "Hockey Stick",
+                        "quatity": 20,
+                        "year": 2021,
+                        "price": 19000
+                    },
+                    {
+                        "name": "Basketball",
+                        "quatity": 20,
+                        "year": 2020,
+                        "price": 22000
+                    }
+                ],
+                "facilites": [
+                    "Water Available",
+                    "Changing Room Available",
+                    "Electricity Available"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.365966796875,
+                    10.012129557908155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Shree Shivchhatrapati Sports Complex",
+                "basicinfo": [
+                    {
+                        "fieldsize": "100.0 M x 68.0 M",
+                        "age": "For Every Age",
+                        "time":"5:30am To 9:30pm",
+                        "state":"Maharastra",
+                        "distric":"Pune",
+                        "city":"Pune"
+                }],"inventory": [
+                            {
+                                "name": "Cricket Bat",
+                                "quatity": 20,
+                                "year": 2020,
+                                "price": 20000
+                            },
+                            {
+                                "name": "Football",
+                                "quatity": 10,
+                                "year": 2020,
+                                "price": 21000
+                            },
+                            {
+                                "name": "Hockey Stick",
+                                "quatity": 20,
+                                "year": 2021,
+                                "price": 19000
+                            },
+                            {
+                                "name": "Basketball",
+                                "quatity": 20,
+                                "year": 2020,
+                                "price": 22000
+                            }
+                        ],
+                        "facilites": [
+                            "Water Available",
+                            "Changing Room Available",
+                            "Electricity Available"
+                        ]
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            18.5745282686, 73.7611309
+                        ]
+                    }
+                },
+                
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "title": "MALAPPURAM DISTRICT SPORTS COMPLEX STADIUM",
+                        "basicinfo": [
+                            {
+                                "fieldsize": "100.0 M x 68.0 M",
+                                "age": "For Every Age",
+                                "time":"5:30am To 9:30pm",
+                                "state":"Kerala",
+                                "distric":"Manjeri",
+                                "city":"Payyanad"
+                        }],
+                        "inventory": [
+                            {
+                                "name": "Cricket Bat",
+                                "quatity": 20,
+                                "year": 2020,
+                                "price": 20000
+                            },
+                            {
+                                "name": "Football",
+                                "quatity": 10,
+                                "year": 2020,
+                                "price": 21000
+                            },
+                            {
+                                "name": "Hockey Stick",
+                                "quatity": 20,
+                                "year": 2021,
+                                "price": 19000
+                            },
+                            {
+                                "name": "Basketball",
+                                "quatity": 20,
+                                "year": 2020,
+                                "price": 22000
+                            }
+                        ],
+                        "facilites": [
+                            "Water Available",
+                            "Changing Room Available",
+                            "Electricity Available"
+                        ]
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            11.0667, 76.0667
+                        ]
+                    }
+                },
+                
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "title": "CHANDRASEKHARAN NAIR STADIUM",
+                        "basic info": [
+                            {
+                                "fieldsize": "100.0 M x 68.0 M",
+                                "age": "Above 18",
+                                "time":"5:30am To 9:30pm",
+                                "state":"Kerala",
+                                "distric":"Pune",
+                                "city":"Pune"
+                        }],
+                        "inventory": [
+                            {
+                                "name": "Cricket Bat",
+                                "quatity": 20,
+                                "year": 2020,
+                                "price": 20000
+                            },
+                            {
+                                "name": "Football",
+                                "quatity": 10,
+                                "year": 2020,
+                                "price": 21000
+                            },
+                            {
+                                "name": "Hockey Stick",
+                                "quatity": 20,
+                                "year": 2021,
+                                "price": 19000
+                            },
+                            {
+                                "name": "Basketball",
+                                "quatity": 20,
+                                "year": 2020,
+                                "price": 22000
+                            }
+                        ],
+                        "facilites": [
+                            "Water Available",
+                            "Changing Room Available",
+                            "Electricity Available"
+                        ]
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            8.50491429202, 76.9505831762
+                        ]
+                    }
+                }
+            ]
+        }
